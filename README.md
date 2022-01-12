@@ -23,3 +23,6 @@ Data preparation
     - Describe in a file *description.txt(md)* the libraries and methods used to achieve the above.
 
 The above are just starting guidelines that can be adjusted and modified as we need.
+
+## Directory Tree Proposal
+  ![AITREE!](./working_directory_proposal.jpg)
