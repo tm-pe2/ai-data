@@ -131,3 +131,4 @@ dmypy.json
 # Activate files
 activate.sh
 ide
+data
